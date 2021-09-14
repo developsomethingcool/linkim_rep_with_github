@@ -1,1 +1,1 @@
-# linkim_rep_with_github
+# linking_rep_with_github
